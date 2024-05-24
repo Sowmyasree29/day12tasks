@@ -20,7 +20,7 @@
     height:10%;
     width:80%;
     background-color:rgb(108, 108, 180);
-    margin-top:30px;
+    margin-top:15%;
     /* border-radius:10%; */
     /* color:white; */
     display:flex;
@@ -42,10 +42,10 @@ th~th{
 }
 
 .head1{
-    margin-left:10px;
+    margin-left:10%;
 }
 .head2{
-    margin-left:170px
+    margin-left:40%;
 }
 
 td{
@@ -55,16 +55,24 @@ td{
 }
 
 .table1{
-    margin-top:30px;
+    margin-top:10%;
+    /* height:60%;
+    width:80%; */
+    /* border:1px solid black; */
     
     
     }
+   
 .table1 td{
     color:black;
 }
+td{
+    height:33.3%;
+    width: 33.3%;
+}
 .title{
-    border:1px solid black;
-    height:700px;
+    /* border:1px solid black; */
+    height:80vh;;
     display:flex;
     align-items:center;
     justify-content:center;
@@ -72,7 +80,7 @@ td{
     
 }
 .last{
-    margin-top:20px;
+    margin-top:10%;
     width:100%;
     /* border:1px solid black; */
    
@@ -80,17 +88,17 @@ td{
 }
 .l1{
     display:inline-block;
-    margin-left:20px;
+    margin-left:10%;
 }
 .l2{
     display:inline-block;
 }
 .l3{
     display:inline-block;
-    margin-left:10px;
+    margin-left:1%;
 }
 .l4{
-    margin-left:10%;
+    margin-left:15%;
 }
 
 
